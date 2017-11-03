@@ -1,5 +1,7 @@
 # VBA_dowload_nse_stocks
 
+Problem / Task : Automating download of NSE stock prices
+
 Purpose : To download NSE stocks data
 
 Required : MS excel
